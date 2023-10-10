@@ -70,9 +70,6 @@ order by PercentPopulationInfected desc
 
 
 
--- Queries I originally had, but excluded some because it created too long of video
--- Here only in case you want to check them out
-
 
 -- 1.
 
